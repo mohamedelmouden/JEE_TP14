@@ -177,6 +177,11 @@ chmod +x scripts/*.sh
 <img width="960" height="540" alt="Screenshot 2026-03-29 034834" src="https://github.com/user-attachments/assets/9c416e01-09fc-4058-9ba3-96981c43a408" />
 
 
+### http://localhost:8086/
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c8c9805-992c-4803-bfe1-de57bb245ea2" />
+
+
 ### Healthcheck — `healthcheck.sh`
 
 <img width="905" height="204" alt="Screenshot 2026-03-29 035049" src="https://github.com/user-attachments/assets/0afa16e7-28ff-43fc-a6b2-bda4a40f4f15" />
@@ -193,9 +198,6 @@ chmod +x scripts/*.sh
 
 <img width="960" height="540" alt="Screenshot 2026-03-29 035233" src="https://github.com/user-attachments/assets/a0ab4888-edf6-4e58-a034-7c4faf5b3417" />
 
-# http://localhost:8086/
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c8c9805-992c-4803-bfe1-de57bb245ea2" />
 
 
 
